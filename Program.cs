@@ -15,8 +15,8 @@ int N = Convert.ToInt32(Console.ReadLine());
 if (N > 99)
 {
     string str1 = number.ToString();
-    char dig2 = str[2];
-    string newS = digit2.ToString();
+    char digit3 = str[2];
+    string newS = digit3.ToString();
     int newN = Convert.ToInt32(newStr);
     Console.WriteLine(newNumber);
 }
